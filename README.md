@@ -1,2 +1,1 @@
-# refactored-winner
-my repository
+Hi campers,I'm a young man with some programming basics.I would like to further my little knowledge tha i have and i am hoping you will there for me for any challenge i might meet on this jouney.thanks
